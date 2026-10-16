@@ -21,7 +21,7 @@ Lightweight web tool for registering participants and recording attendance at he
 ---
 ### 📄 Latest Research
 Ku, S. K., **Ruhaifi, M. S. M.**, Fatin, S. S., Saffana, M., Anna, K. T., Das, S., & Kamsiah, J. (2014). The harmful effects of consumption of repeatedly heated edible oils: A short review. *La Clinica Terapeutica, 165*(4), 217–221. [![PMID:25203337](https://img.shields.io/badge/PMID-25203337-blue)](https://pubmed.ncbi.nlm.nih.gov/25203337/)
-[See all papers →](https://scholar.google.com/citations?user=Rnm1yEIAAAAJ)
+[See all papers →](https://scholar.google.com/citations?user=Rnm1yEIAAAAJ) · [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0956--0143-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0956-0143)
 ---
 ### 📢 Recent Activity
 - **Poster (🥈 Silver Medal):** *Effectiveness of an Interactive Explorace-Based Adolescent Sexual and Reproductive Health Programme on Knowledge Improvement Among Form Two Students in Tumpat, Kelantan* at 3rd East Coast Research Day (ECRD) 2026, Kuantan, Malaysia, September 2026.
