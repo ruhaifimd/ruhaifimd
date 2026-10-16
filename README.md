@@ -28,4 +28,5 @@ Ku, S. K., **Ruhaifi, M. S. M.**, Fatin, S. S., Saffana, M., Anna, K. T., Das, S
 ---
 ### 📢 Recent Activity
 - **Poster (🥈 Silver Medal):** *Effectiveness of an Interactive Explorace-Based Adolescent Sexual and Reproductive Health Programme on Knowledge Improvement Among Form Two Students in Tumpat, Kelantan* at 3rd East Coast Research Day (ECRD) 2026, Kuantan, Malaysia, September 2026.
+- **Poster:** *Commuting Injury Among Ministry of Health Staff in Kelantan, Malaysia: Proportion, Trend and Associated Factors, 2016–2022* at 27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor, Malaysia, July 2026.
 - **Talk:** *Beyond the Bench: Reimagining Public Health Laboratories with Generative AI* at Kelantan Public Health Laboratory, Kota Bharu, Malaysia, June 2026.
