@@ -33,6 +33,8 @@ Lightweight web tool for registering participants and recording attendance at he
 
 [See all papers →](https://scholar.google.com/citations?user=Rnm1yEIAAAAJ)
 
+---
+
 ### 📢 Recent Activity
 - **Invited Talk:** *Prompt to Application: Building Smarter Healthcare Apps with Generative AI*, organised by Pasir Puteh District Health Office, Kelantan, Malaysia, October 2026. [PDF slides](https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf)
 - **Poster (🥈 Silver Medal):** *Effectiveness of an Interactive Explorace-Based Adolescent Sexual and Reproductive Health Programme on Knowledge Improvement Among Form Two Students in Tumpat, Kelantan* at 3rd East Coast Research Day (ECRD) 2026, Kuantan, Malaysia, September 2026.
