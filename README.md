@@ -27,7 +27,7 @@ Ku, S. K., **Ruhaifi, M. S. M.**, Fatin, S. S., Saffana, M., Anna, K. T., Das, S
 [See all papers →](https://scholar.google.com/citations?user=Rnm1yEIAAAAJ) · [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0956--0143-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0956-0143)
 ---
 ### 📢 Recent Activity
-- **Talk:** *Prompt to Application: Building Smarter Healthcare Apps with Generative AI*, organised by Pasir Puteh District Health Office, Kelantan, Malaysia, October 2026.
+- **Invited Talk:** *Prompt to Application: Building Smarter Healthcare Apps with Generative AI*, organised by Pasir Puteh District Health Office, Kelantan, Malaysia, October 2026.
 - **Poster (🥈 Silver Medal):** *Effectiveness of an Interactive Explorace-Based Adolescent Sexual and Reproductive Health Programme on Knowledge Improvement Among Form Two Students in Tumpat, Kelantan* at 3rd East Coast Research Day (ECRD) 2026, Kuantan, Malaysia, September 2026.
 - **Poster:** *Commuting Injury Among Ministry of Health Staff in Kelantan, Malaysia: Proportion, Trend and Associated Factors, 2016–2022* at 27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor, Malaysia, July 2026.
-- **Talk:** *Beyond the Bench: Reimagining Public Health Laboratories with Generative AI* at Kelantan Public Health Laboratory, Kota Bharu, Malaysia, June 2026.
+- **Invited Talk:** *Beyond the Bench: Reimagining Public Health Laboratories with Generative AI* at Kelantan Public Health Laboratory, Kota Bharu, Malaysia, June 2026.
