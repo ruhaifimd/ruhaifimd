@@ -12,6 +12,16 @@ This portfolio shares selected work in digital health, AI education for frontlin
 
 **Current research — AI-SAFER:** an AI-enhanced, scenario-based simulation for flood preparedness training, within my interest in helping communities prepare for, respond to and recover from disasters.
 
+### EMPOWER REMAJA DI SEBALIK OMBAK
+
+*Adolescent sexual & reproductive health · Pulau Teluk Renjuna*
+
+A descriptive pre–post evaluation of a community health education programme for adolescents in an island community.
+
+**Contribution:** Co-author · Methodological design
+
+**Poster recognition:** Second place at the Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention, 2026.
+
 ### Selected publication
 
 - Ku, S. K., **Ruhaifi, M. S. M.**, Fatin, S. S., Saffana, M., Anna, K. T., Das, S., & Kamsiah, J. (2014). The harmful effects of consumption of repeatedly heated edible oils: A short review. *La Clinica Terapeutica, 165*(4), 217–221. [PMID:25203337](https://pubmed.ncbi.nlm.nih.gov/25203337/)
