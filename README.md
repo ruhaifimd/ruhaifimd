@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Muhammad Ruhaifi. Public health practice and research, digital tools, AI" width="100%">
+  <img src="assets/banner-light.svg" alt="Muhammad Ruhaifi. Public health, disaster risk management, digital tools and AI" width="100%">
 </picture>
 
 <p align="center">
@@ -13,9 +13,10 @@
 Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.gov.my/), Kelantan, [Ministry of Health Malaysia](https://www.moh.gov.my/), and Doctor of Public Health (DrPH) candidate at [Universiti Sains Malaysia (USM)](https://www.usm.my/).<br>
 <sub>MD (UKM) · MPH (USM) · OHD (DOSH) · Google Gemini Certified Educator</sub>
 
-## Now
+## Focus
 
-**AI-SAFER:** current research on an AI-enhanced, scenario-based simulation for flood preparedness training.
+**Disaster risk management:** helping communities and health teams prepare for, respond to and recover from floods.<br>
+**AI-SAFER:** current DrPH research on an AI-enhanced, scenario-based simulation for flood preparedness training.
 
 ## Selected Projects
 
