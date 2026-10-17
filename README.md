@@ -34,29 +34,24 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 
 <table>
 <tr>
-<td valign="top"><sub>Oct<br>2026</sub></td>
-<td><b>Prompt to Application:</b> Building Smarter Healthcare Apps with Generative AI<br><sub>Pasir Puteh District Health Office, Kelantan · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">PDF slides</a></sub></td>
-<td valign="top" width="100"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"></td>
+<td valign="top" width="132"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"><br><sub>Oct 2026</sub></td>
+<td valign="top"><b>Prompt to Application:</b> Building Smarter Healthcare Apps with Generative AI<br><sub>Pasir Puteh District Health Office, Kelantan · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">PDF slides</a></sub></td>
 </tr>
 <tr>
-<td valign="top"><sub>Oct<br>2026</sub></td>
-<td><b>Empower Remaja di Sebalik Ombak:</b> adolescent sexual and reproductive health programme evaluation<br><sub>Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention</sub></td>
-<td valign="top" width="132"><img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20"></td>
+<td valign="top" width="132"><img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20"><br><sub>Oct 2026</sub></td>
+<td valign="top"><b>Empower Remaja di Sebalik Ombak:</b> adolescent sexual and reproductive health programme evaluation<br><sub>Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention</sub></td>
 </tr>
 <tr>
-<td valign="top"><sub>Sep<br>2026</sub></td>
-<td><b>Explorace-based adolescent sexual and reproductive health programme:</b> knowledge among Form Two students, Tumpat<br><sub>3rd East Coast Research Day (ECRD) 2026, Kuantan</sub></td>
-<td valign="top" width="126"><img src="assets/badges/silver-medal-award.svg" alt="Poster · Silver Medal" width="122" height="20"></td>
+<td valign="top" width="132"><img src="assets/badges/silver-medal-award.svg" alt="Poster · Silver Medal" width="122" height="20"><br><sub>Sep 2026</sub></td>
+<td valign="top"><b>Explorace-based adolescent sexual and reproductive health programme:</b> knowledge among Form Two students, Tumpat<br><sub>3rd East Coast Research Day (ECRD) 2026, Kuantan</sub></td>
 </tr>
 <tr>
-<td valign="top"><sub>Jul<br>2026</sub></td>
-<td><b>Commuting injury among MOH staff in Kelantan:</b> proportion, trend and associated factors, 2016–2022<br><sub>27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor</sub></td>
-<td valign="top" width="104"><img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20"></td>
+<td valign="top" width="132"><img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20"><br><sub>Jul 2026</sub></td>
+<td valign="top"><b>Commuting injury among MOH staff in Kelantan:</b> proportion, trend and associated factors, 2016–2022<br><sub>27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor</sub></td>
 </tr>
 <tr>
-<td valign="top"><sub>Jun<br>2026</sub></td>
-<td><b>Beyond the Bench:</b> Reimagining Public Health Laboratories with Generative AI<br><sub>Kota Bharu Public Health Laboratory, Kelantan · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">PDF slides</a></sub></td>
-<td valign="top" width="100"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"></td>
+<td valign="top" width="132"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"><br><sub>Jun 2026</sub></td>
+<td valign="top"><b>Beyond the Bench:</b> Reimagining Public Health Laboratories with Generative AI<br><sub>Kota Bharu Public Health Laboratory, Kelantan · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">PDF slides</a></sub></td>
 </tr>
 </table>
 
