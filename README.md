@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://my.linkedin.com/in/muhammad-ruhaifi-m-s-8b70b736b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg"><img src="assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0003-0956-0143"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/orcid-dark.svg"><img src="assets/icons/orcid.svg" alt="ORCID" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=Rnm1yEIAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/googlescholar-dark.svg"><img src="assets/icons/googlescholar.svg" alt="Google Scholar" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Muhammad-Ruhaifi-Muhammad-Sabri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/researchgate-dark.svg"><img src="assets/icons/researchgate.svg" alt="ResearchGate" width="32" height="32"></picture></a>
+  <a href="https://my.linkedin.com/in/muhammad-ruhaifi-m-s-8b70b736b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg"><img src="assets/icons/linkedin.svg" alt="LinkedIn" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0003-0956-0143"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/orcid-dark.svg"><img src="assets/icons/orcid.svg" alt="ORCID" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=Rnm1yEIAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/googlescholar-dark.svg"><img src="assets/icons/googlescholar.svg" alt="Google Scholar" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Muhammad-Ruhaifi-Muhammad-Sabri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/researchgate-dark.svg"><img src="assets/icons/researchgate.svg" alt="ResearchGate" width="36" height="36"></picture></a>
 </p>
 
 Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.gov.my/), Kelantan, [Ministry of Health Malaysia](https://www.moh.gov.my/), and Doctor of Public Health (DrPH) candidate at [Universiti Sains Malaysia (USM)](https://www.usm.my/).<br>
@@ -34,29 +34,29 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 
 <table>
 <tr>
-<td valign="top"><sub>Oct&nbsp;2026</sub></td>
+<td valign="top"><sub>Oct<br>2026</sub></td>
 <td><b>Prompt to Application:</b> Building Smarter Healthcare Apps with Generative AI<br><sub>Pasir Puteh District Health Office, Kelantan · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">PDF slides</a></sub></td>
-<td valign="top"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"></td>
+<td valign="top" width="100"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"></td>
 </tr>
 <tr>
-<td valign="top"><sub>Oct&nbsp;2026</sub></td>
+<td valign="top"><sub>Oct<br>2026</sub></td>
 <td><b>Empower Remaja di Sebalik Ombak:</b> adolescent sexual and reproductive health programme evaluation<br><sub>Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention</sub></td>
-<td valign="top"><img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20"></td>
+<td valign="top" width="132"><img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20"></td>
 </tr>
 <tr>
-<td valign="top"><sub>Sep&nbsp;2026</sub></td>
+<td valign="top"><sub>Sep<br>2026</sub></td>
 <td><b>Explorace-based adolescent sexual and reproductive health programme:</b> knowledge among Form Two students, Tumpat<br><sub>3rd East Coast Research Day (ECRD) 2026, Kuantan</sub></td>
-<td valign="top"><img src="assets/badges/silver-medal-award.svg" alt="Poster · Silver Medal" width="122" height="20"></td>
+<td valign="top" width="126"><img src="assets/badges/silver-medal-award.svg" alt="Poster · Silver Medal" width="122" height="20"></td>
 </tr>
 <tr>
-<td valign="top"><sub>Jul&nbsp;2026</sub></td>
+<td valign="top"><sub>Jul<br>2026</sub></td>
 <td><b>Commuting injury among MOH staff in Kelantan:</b> proportion, trend and associated factors, 2016–2022<br><sub>27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor</sub></td>
-<td valign="top"><img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20"></td>
+<td valign="top" width="104"><img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20"></td>
 </tr>
 <tr>
-<td valign="top"><sub>Jun&nbsp;2026</sub></td>
+<td valign="top"><sub>Jun<br>2026</sub></td>
 <td><b>Beyond the Bench:</b> Reimagining Public Health Laboratories with Generative AI<br><sub>Kota Bharu Public Health Laboratory, Kelantan · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">PDF slides</a></sub></td>
-<td valign="top"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"></td>
+<td valign="top" width="100"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"></td>
 </tr>
 </table>
 
