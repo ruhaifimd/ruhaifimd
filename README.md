@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://my.linkedin.com/in/muhammad-ruhaifi-m-s-8b70b736b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg"><img src="assets/icons/linkedin.svg" alt="LinkedIn" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0003-0956-0143"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/orcid-dark.svg"><img src="assets/icons/orcid.svg" alt="ORCID" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=Rnm1yEIAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/googlescholar-dark.svg"><img src="assets/icons/googlescholar.svg" alt="Google Scholar" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Muhammad-Ruhaifi-Muhammad-Sabri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/researchgate-dark.svg"><img src="assets/icons/researchgate.svg" alt="ResearchGate" width="36" height="36"></picture></a>
+  <a href="https://my.linkedin.com/in/muhammad-ruhaifi-m-s-8b70b736b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/linkedin-dark.svg"><img src="assets/links/linkedin.svg" alt="LinkedIn" width="126" height="44"></picture></a>
+  <a href="https://orcid.org/0009-0003-0956-0143"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/orcid-dark.svg"><img src="assets/links/orcid.svg" alt="ORCID" width="108" height="44"></picture></a>
+  <a href="https://scholar.google.com/citations?user=Rnm1yEIAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/googlescholar-dark.svg"><img src="assets/links/googlescholar.svg" alt="Google Scholar" width="174" height="44"></picture></a>
+  <a href="https://www.researchgate.net/profile/Muhammad-Ruhaifi-Muhammad-Sabri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/researchgate-dark.svg"><img src="assets/links/researchgate.svg" alt="ResearchGate" width="167" height="44"></picture></a>
 </p>
 
 Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.gov.my/), Kelantan, [Ministry of Health Malaysia](https://www.moh.gov.my/), and Doctor of Public Health (DrPH) candidate at [Universiti Sains Malaysia (USM)](https://www.usm.my/).<br>
@@ -19,39 +19,37 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 
 ## Selected Projects
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/ruhaifimd/GDM-Postnatal-Registry"><b>GDM Postnatal Registry</b></a><br>Follow-up after gestational diabetes, from six-week postnatal OGTT to annual screening.</td>
-<td width="50%" valign="top"><a href="https://github.com/ruhaifimd/Kursus-Generatif-AI"><b>Generative AI for Health Staff</b></a><br>Bahasa Melayu course on safe, practical Gemini and NotebookLM use.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/ruhaifimd/Program-Registry-System"><b>Program Registry System</b></a><br>Participant registration and attendance for health training programmes.</td>
-<td width="50%" valign="top"><b>Public Health Statistical Modelling</b><br>DrPH R/Quarto coursework: <a href="https://github.com/ruhaifimd/Multiple-Linear-Regression_DrPH">linear</a> and <a href="https://github.com/ruhaifimd/Multiple-Logistic-Regression_DrPH">logistic</a> regression.</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ruhaifimd/GDM-Postnatal-Registry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/gdm-dark.svg"><img src="assets/cards/gdm.svg" alt="GDM Postnatal Registry. Gestational diabetes follow-up, from six-week postnatal OGTT to annual screening." width="49%"></picture></a>
+  <a href="https://github.com/ruhaifimd/Kursus-Generatif-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/genai-dark.svg"><img src="assets/cards/genai.svg" alt="Generative AI for Health Staff. Bahasa Melayu course on safe, practical Gemini and NotebookLM use." width="49%"></picture></a>
+  <a href="https://github.com/ruhaifimd/Program-Registry-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/registry-dark.svg"><img src="assets/cards/registry.svg" alt="Program Registry System. Participant registration and attendance for health training programmes." width="49%"></picture></a>
+  <a href="https://github.com/ruhaifimd/Multiple-Logistic-Regression_DrPH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/stats-dark.svg"><img src="assets/cards/stats.svg" alt="Public Health Statistical Modelling. DrPH coursework: multiple linear and logistic regression in R." width="49%"></picture></a>
+</p>
+
+<p align="center"><sub>Statistical Modelling repositories: <a href="https://github.com/ruhaifimd/Multiple-Linear-Regression_DrPH">linear regression</a> · <a href="https://github.com/ruhaifimd/Multiple-Logistic-Regression_DrPH">logistic regression</a></sub></p>
 
 ## Selected Presentations & Recognition
 
 <table>
 <tr>
-<td valign="top"><b>Prompt to Application:</b> Building Smarter Healthcare Apps with Generative AI<br><sub>Pasir Puteh District Health Office, Kelantan · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">PDF slides</a></sub></td>
-<td valign="top" width="132"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"><br><sub>Oct 2026</sub></td>
+<td valign="top"><b>Prompt to Application: Smarter Healthcare Apps with Generative AI</b><br><sub>Pasir Puteh District Health Office, Kelantan · Oct 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">PDF slides</a></sub></td>
+<td valign="top" width="136"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"></td>
 </tr>
 <tr>
-<td valign="top"><b>Empower Remaja di Sebalik Ombak:</b> adolescent sexual and reproductive health programme evaluation<br><sub>Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention</sub></td>
-<td valign="top" width="132"><img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20"><br><sub>Oct 2026</sub></td>
+<td valign="top"><b>Empower Remaja di Sebalik Ombak: adolescent health programme evaluation</b><br><sub>Kelantan State PPKK (Health Clinic Advisory Panel) Convention · Oct 2026</sub></td>
+<td valign="top" width="136"><img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20"></td>
 </tr>
 <tr>
-<td valign="top"><b>Explorace-based adolescent sexual and reproductive health programme:</b> knowledge among Form Two students, Tumpat<br><sub>3rd East Coast Research Day (ECRD) 2026, Kuantan</sub></td>
-<td valign="top" width="132"><img src="assets/badges/silver-medal-award.svg" alt="Poster · Silver Medal" width="122" height="20"><br><sub>Sep 2026</sub></td>
+<td valign="top"><b>Explorace adolescent health programme: student knowledge, Tumpat</b><br><sub>3rd East Coast Research Day 2026, Kuantan · Sep 2026</sub></td>
+<td valign="top" width="136"><img src="assets/badges/silver-medal-award.svg" alt="Poster · Silver Medal" width="122" height="20"></td>
 </tr>
 <tr>
-<td valign="top"><b>Commuting injury among MOH staff in Kelantan:</b> proportion, trend and associated factors, 2016–2022<br><sub>27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor</sub></td>
-<td valign="top" width="132"><img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20"><br><sub>Jul 2026</sub></td>
+<td valign="top"><b>Commuting injury among MOH staff in Kelantan, 2016–2022</b><br><sub>27th NIH Scientific Conference 2026, Selangor · Jul 2026</sub></td>
+<td valign="top" width="136"><img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20"></td>
 </tr>
 <tr>
-<td valign="top"><b>Beyond the Bench:</b> Reimagining Public Health Laboratories with Generative AI<br><sub>Kota Bharu Public Health Laboratory, Kelantan · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">PDF slides</a></sub></td>
-<td valign="top" width="132"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"><br><sub>Jun 2026</sub></td>
+<td valign="top"><b>Beyond the Bench: Public Health Laboratories and Generative AI</b><br><sub>Kota Bharu Public Health Laboratory, Kelantan · Jun 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">PDF slides</a></sub></td>
+<td valign="top" width="136"><img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20"></td>
 </tr>
 </table>
 
