@@ -36,7 +36,7 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 <b>Empower Remaja di Sebalik Ombak: adolescent sexual &amp; reproductive health programme evaluation</b><br>
 <sub>Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention · Oct 2026</sub>&nbsp; <img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20" align="absmiddle">
 
-<b>Explorace adolescent sexual &amp; reproductive health programme: student knowledge, Tumpat</b><br>
+<b>Explorace adolescent sexual &amp; reproductive health programme: student&nbsp;knowledge,&nbsp;Tumpat</b><br>
 <sub>3rd East Coast Research Day 2026, Kuantan · Sep 2026</sub>&nbsp; <img src="assets/badges/silver-medal-award.svg" alt="Poster · Silver Medal" width="122" height="20" align="absmiddle">
 
 <b>Commuting injury among MOH staff in Kelantan, 2016–2022</b><br>
