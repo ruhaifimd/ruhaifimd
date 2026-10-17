@@ -24,12 +24,12 @@ Adolescent sexual and reproductive health programme evaluation.
 
 [More publications on Google Scholar](https://scholar.google.com/citations?user=Rnm1yEIAAAAJ)
 
-## Selected Talks & Recognition
+## Selected Presentations & Recognition
 
-- **Invited Talk:** *Prompt to Application: Building Smarter Healthcare Apps with Generative AI*, organised by Pasir Puteh District Health Office, Kelantan, Malaysia, October 2026. [PDF slides](https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf)
-- **Poster (Silver Medal):** *Effectiveness of an Interactive Explorace-Based Adolescent Sexual and Reproductive Health Programme on Knowledge Improvement Among Form Two Students in Tumpat, Kelantan* at 3rd East Coast Research Day (ECRD) 2026, Kuantan, Malaysia, September 2026.
-- **Poster:** *Commuting Injury Among Ministry of Health Staff in Kelantan, Malaysia: Proportion, Trend and Associated Factors, 2016–2022* at 27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor, Malaysia, July 2026.
-- **Invited Talk:** *Beyond the Bench: Reimagining Public Health Laboratories with Generative AI*, organised by Kota Bharu Public Health Laboratory, Kelantan, Malaysia, June 2026. [PDF slides](https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf)
+- *Prompt to Application: Building Smarter Healthcare Apps with Generative AI* <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">, organised by Pasir Puteh District Health Office, Kelantan, Malaysia, October 2026. [PDF slides](https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf)
+- *Effectiveness of an Interactive Explorace-Based Adolescent Sexual and Reproductive Health Programme on Knowledge Improvement Among Form Two Students in Tumpat, Kelantan* <img src="assets/badges/silver-medal.svg" alt="Poster · Silver Medal" width="122" height="20" align="absmiddle"> at 3rd East Coast Research Day (ECRD) 2026, Kuantan, Malaysia, September 2026.
+- *Commuting Injury Among Ministry of Health Staff in Kelantan, Malaysia: Proportion, Trend and Associated Factors, 2016–2022* <img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20" align="absmiddle"> at 27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor, Malaysia, July 2026.
+- *Beyond the Bench: Reimagining Public Health Laboratories with Generative AI* <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">, organised by Kota Bharu Public Health Laboratory, Kelantan, Malaysia, June 2026. [PDF slides](https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf)
 
 ## Selected Projects
 
