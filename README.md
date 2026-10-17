@@ -21,6 +21,10 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 ## Selected Projects
 
 <p align="center">
+  <a href="https://ruhaifimd.github.io/kelantan-flood-health-facilities/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/drm-flood-dark.svg"><img src="assets/cards/drm-flood.svg" alt="Kelantan Flood Exposure of Health Facilities. Which clinics and hospitals sat near the satellite-observed 2024 floods." width="410"></picture></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ruhaifimd/GDM-Postnatal-Registry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/gdm-dark.svg"><img src="assets/cards/gdm.svg" alt="GDM Postnatal Registry. Gestational diabetes follow-up, from six-week postnatal OGTT to annual screening." width="410"></picture></a>
   <a href="https://github.com/ruhaifimd/Kursus-Generatif-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/genai-dark.svg"><img src="assets/cards/genai.svg" alt="Generative AI for Health Staff. Bahasa Melayu course on safe, practical Gemini and NotebookLM use." width="410"></picture></a>
   <a href="https://github.com/ruhaifimd/Program-Registry-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/registry-dark.svg"><img src="assets/cards/registry.svg" alt="Program Registry System. Participant registration and attendance for health training programmes." width="410"></picture></a>
