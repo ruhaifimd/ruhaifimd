@@ -12,12 +12,6 @@ This portfolio shares selected work in digital health, AI education for frontlin
 
 **Current research — AI-SAFER:** an AI-enhanced, scenario-based simulation for flood preparedness training, within my interest in helping communities prepare for, respond to and recover from disasters.
 
-### Empower Remaja di Sebalik Ombak
-Adolescent sexual and reproductive health programme evaluation.  
-**Co-author**
-
-**Second-place poster** — Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention, 2026.
-
 ### Selected publication
 
 - Ku, S. K., **Ruhaifi, M. S. M.**, Fatin, S. S., Saffana, M., Anna, K. T., Das, S., & Kamsiah, J. (2014). The harmful effects of consumption of repeatedly heated edible oils: A short review. *La Clinica Terapeutica, 165*(4), 217–221. [PMID:25203337](https://pubmed.ncbi.nlm.nih.gov/25203337/)
@@ -27,6 +21,7 @@ Adolescent sexual and reproductive health programme evaluation.
 ## Selected Presentations & Recognition
 
 - *Prompt to Application: Building Smarter Healthcare Apps with Generative AI*, organised by Pasir Puteh District Health Office, Kelantan, Malaysia, October 2026. [PDF slides](https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf) <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
+- *Empower Remaja di Sebalik Ombak* (adolescent sexual and reproductive health programme evaluation) at Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention, October 2026. <img src="assets/badges/co-author-2nd-place.svg" alt="Co-author · 2nd Place" width="128" height="20" align="absmiddle">
 - *Effectiveness of an Interactive Explorace-Based Adolescent Sexual and Reproductive Health Programme on Knowledge Improvement Among Form Two Students in Tumpat, Kelantan* at 3rd East Coast Research Day (ECRD) 2026, Kuantan, Malaysia, September 2026. <img src="assets/badges/silver-medal.svg" alt="Poster · Silver Medal" width="122" height="20" align="absmiddle">
 - *Commuting Injury Among Ministry of Health Staff in Kelantan, Malaysia: Proportion, Trend and Associated Factors, 2016–2022* at 27th NIH Scientific Conference 2026, Ministry of Health Malaysia, Selangor, Malaysia, July 2026. <img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20" align="absmiddle">
 - *Beyond the Bench: Reimagining Public Health Laboratories with Generative AI*, organised by Kota Bharu Public Health Laboratory, Kelantan, Malaysia, June 2026. [PDF slides](https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf) <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
