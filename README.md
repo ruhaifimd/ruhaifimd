@@ -11,7 +11,7 @@
 </p>
 
 Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.gov.my/), Kelantan, [Ministry of Health Malaysia](https://www.moh.gov.my/), and Doctor of Public Health (DrPH) candidate at [Universiti Sains Malaysia (USM)](https://www.usm.my/).<br>
-<sub>MD (UKM) · MPH (USM) · OHD (DOSH) · Google Gemini Certified Educator</sub>
+<sub>MD (UKM) · MPH (USM) · OHD (DOSH) · Google Gemini Certified Educator · WPNCHE Climate Resilience for Health Systems (2026)</sub>
 
 ## Focus
 
