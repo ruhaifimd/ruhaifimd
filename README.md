@@ -12,15 +12,11 @@ This portfolio shares selected work in digital health, AI education for frontlin
 
 **Current research — AI-SAFER:** an AI-enhanced, scenario-based simulation for flood preparedness training, within my interest in helping communities prepare for, respond to and recover from disasters.
 
-### EMPOWER REMAJA DI SEBALIK OMBAK
+### Empower Remaja di Sebalik Ombak
+Adolescent sexual and reproductive health programme evaluation.  
+**Co-author**
 
-*Adolescent sexual & reproductive health · Pulau Teluk Renjuna*
-
-A descriptive pre–post evaluation of a community health education programme for adolescents in an island community.
-
-**Contribution:** Co-author · Methodological design
-
-**Poster recognition:** Second place at the Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention, 2026.
+**Second-place poster** — Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention, 2026.
 
 ### Selected publication
 
