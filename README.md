@@ -37,7 +37,7 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 ## Selected Presentations & Recognition
 
 <b>Aplikasi AI dalam Pengurusan Penyakit Berjangkit</b><br>
-<sub>Tumpat District Health Office, Kelantan · Oct 2026</sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
+<sub>Tumpat District Health Office, Kelantan · Oct 2026 · <a href="https://ruhaifimd.github.io/presentation/ai-cdc/">Live&nbsp;slides</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
 
 <b>Prompt to Application: Smarter Healthcare Apps with Generative AI</b><br>
 <sub>Pasir Puteh District Health Office, Kelantan · Oct 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">PDF&nbsp;slides</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
