@@ -37,10 +37,10 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 ## Selected Presentations & Recognition
 
 <b>Aplikasi AI dalam Pengurusan Penyakit Berjangkit</b><br>
-<sub>Tumpat District Health Office, Kelantan · Oct 2026 · <a href="https://ruhaifimd.github.io/presentation/ai-cdc/">Live&nbsp;slides</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
+<sub>Tumpat District Health Office, Kelantan · Oct 2026 · <a href="https://ruhaifimd.github.io/presentation/ai-cdc/">Link</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
 
 <b>Prompt to Application: Smarter Healthcare Apps with Generative AI</b><br>
-<sub>Pasir Puteh District Health Office, Kelantan · Oct 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">PDF&nbsp;slides</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
+<sub>Pasir Puteh District Health Office, Kelantan · Oct 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">Link</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
 
 <b>Empower Remaja di Sebalik Ombak: adolescent sexual &amp; reproductive health programme evaluation</b><br>
 <sub>Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention · Oct 2026</sub>&nbsp; <img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20" align="absmiddle">
@@ -52,7 +52,7 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 <sub>27th NIH Scientific Conference 2026, Selangor · Jul 2026</sub>&nbsp; <img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20" align="absmiddle">
 
 <b>Beyond the Bench: Public Health Laboratories and Generative AI</b><br>
-<sub>Kota Bharu Public Health Laboratory, Kelantan · Jun 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">PDF&nbsp;slides</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
+<sub>Kota Bharu Public Health Laboratory, Kelantan · Jun 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">Link</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
 
 ## Publications
 
