@@ -10,7 +10,7 @@
   <a href="https://www.researchgate.net/profile/Muhammad-Ruhaifi-Muhammad-Sabri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/researchgate-dark.svg"><img src="assets/links/researchgate.svg" alt="ResearchGate" width="167" height="44"></picture></a>
 </p>
 
-Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.gov.my/), Kelantan, [Ministry of Health Malaysia](https://www.moh.gov.my/), and Doctor of Public Health (DrPH) candidate at [Universiti Sains Malaysia (USM)](https://www.usm.my/).<br>
+Occupational Health Doctor and Doctor of Public Health (DrPH) candidate at [Universiti Sains Malaysia (USM)](https://www.usm.my/).<br>
 <sub>MD (UKM) · MPH (USM) · OHD (DOSH) · Google Gemini Certified Educator · WPNCHE Climate Resilience for Health Systems (2026)</sub>
 
 ## Focus
@@ -26,7 +26,7 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 </p>
 
 <p align="center">
-  <a href="https://github.com/ruhaifimd/GDM-Postnatal-Registry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/gdm-dark.svg"><img src="assets/cards/gdm.svg" alt="GDM Postnatal Registry. Gestational diabetes follow-up, from six-week postnatal OGTT to annual screening." width="410"></picture></a>
+  <a href="https://github.com/ruhaifimd/GDM-Postnatal-Registry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/gdm-dark.svg"><img src="assets/cards/gdm.svg" alt="Jejak Ibu. Gestational diabetes follow-up, from six-week postnatal OGTT to annual screening." width="410"></picture></a>
   <a href="https://github.com/ruhaifimd/Kursus-Generatif-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/genai-dark.svg"><img src="assets/cards/genai.svg" alt="Generative AI for Health Staff. Bahasa Melayu course on safe, practical Gemini and NotebookLM use." width="410"></picture></a>
   <a href="https://github.com/ruhaifimd/Program-Registry-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/registry-dark.svg"><img src="assets/cards/registry.svg" alt="Program Registry System. Participant registration and attendance for health training programmes." width="410"></picture></a>
   <a href="https://github.com/ruhaifimd/Multiple-Logistic-Regression_DrPH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/stats-dark.svg"><img src="assets/cards/stats.svg" alt="Public Health Statistical Modelling. DrPH coursework: multiple linear and logistic regression in R." width="410"></picture></a>
