@@ -36,6 +36,9 @@ Medical Officer at the [Tumpat District Health Office](https://jknkelantan.moh.g
 
 ## Selected Presentations & Recognition
 
+<b>AI-SAFER: Malay-language AI simulator for flood preparedness training</b><br>
+<sub>TOPCOM 2026 · 14th International Conference on Emergency and Disaster Medicine, Langkawi · Nov 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-11-topcom-ai-safer-poster-ruhaifi.pdf">Link</a></sub>&nbsp; <img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20" align="absmiddle">
+
 <b>Aplikasi AI dalam Kawalan Penyakit Berjangkit</b><br>
 <sub>Tumpat District Health Office, Kelantan · Oct 2026 · <a href="https://ruhaifimd.github.io/presentation/ai-cdc/">Link</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
 
