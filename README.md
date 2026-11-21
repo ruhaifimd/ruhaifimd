@@ -33,8 +33,11 @@ Occupational Health Doctor and Doctor of Public Health (DrPH) candidate at [Univ
 
 ## Live Apps
 
-<b><a href="https://ruhaifimd.github.io/kamus-id/">KamusID</a>: infectious disease case definitions for health workers in Malaysia</b><br>
-<sub>Searchable web app for the 58 diseases in the MOH <i>Case Definitions for Infectious Diseases in Malaysia</i> (4th Ed, 2026). Installs on a phone and works offline. Unofficial reference copy; the published PDF remains authoritative · <a href="https://ruhaifimd.github.io/kamus-id/">Open KamusID</a></sub>
+<p align="center">
+  <a href="https://ruhaifimd.github.io/kamus-id/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/kamusid-dark.svg"><img src="assets/cards/kamusid.svg" alt="KamusID. Malaysia’s infectious disease case definitions, searchable and ready offline on any phone." width="410"></picture></a>
+</p>
+
+<p align="center"><sub>KamusID covers the 58 diseases in the MOH <i>Case Definitions for Infectious Diseases in Malaysia</i> (4th Ed, 2026). It is an unofficial reference copy; the published PDF remains authoritative.</sub></p>
 
 ## Selected Presentations & Recognition
 
