@@ -39,6 +39,15 @@ Occupational Health Doctor and Doctor of Public Health (DrPH) candidate at [Univ
 
 <p align="center"><sub>KamusID covers the 58 diseases in the MOH <i>Case Definitions for Infectious Diseases in Malaysia</i> (4th Ed, 2026). It is an unofficial reference copy; the published PDF remains authoritative.</sub></p>
 
+<details>
+<summary><b>All apps (1)</b></summary>
+
+| App | What it does | Link |
+|---|---|---|
+| KamusID | Infectious disease case definitions for Malaysia; installs on a phone and works offline | [Open](https://ruhaifimd.github.io/kamus-id/) |
+
+</details>
+
 ## Selected Presentations & Recognition
 
 <b>AI-SAFER: Malay-language AI simulator for flood preparedness training</b><br>
