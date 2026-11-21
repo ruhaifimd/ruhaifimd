@@ -23,9 +23,6 @@ Occupational Health Doctor and Doctor of Public Health (DrPH) candidate at [Univ
 <p align="center">
   <a href="https://ruhaifimd.github.io/kelantan-flood-health-facilities/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/drm-flood-dark.svg"><img src="assets/cards/drm-flood.svg" alt="Kelantan Flood Exposure of Health Facilities. Which clinics and hospitals sat near the satellite-observed 2024 floods." width="410"></picture></a>
   <a href="https://ruhaifimd.github.io/kelantan-health-access/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/health-access-dark.svg"><img src="assets/cards/health-access.svg" alt="Kelantan Health Facility Access. Who lives more than 10 km by road from the nearest clinic or hospital, by district." width="410"></picture></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ruhaifimd/GDM-Postnatal-Registry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/gdm-dark.svg"><img src="assets/cards/gdm.svg" alt="Jejak Ibu. Gestational diabetes follow-up, from six-week postnatal OGTT to annual screening." width="410"></picture></a>
   <a href="https://github.com/ruhaifimd/Kursus-Generatif-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/genai-dark.svg"><img src="assets/cards/genai.svg" alt="Generative AI for Health Staff. Bahasa Melayu course on safe, practical Gemini and NotebookLM use." width="410"></picture></a>
   <a href="https://github.com/ruhaifimd/Program-Registry-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/registry-dark.svg"><img src="assets/cards/registry.svg" alt="Program Registry System. Participant registration and attendance for health training programmes." width="410"></picture></a>
@@ -34,16 +31,21 @@ Occupational Health Doctor and Doctor of Public Health (DrPH) candidate at [Univ
 
 <p align="center"><sub>Statistical Modelling repositories: <a href="https://github.com/ruhaifimd/Multiple-Linear-Regression_DrPH">linear regression</a> · <a href="https://github.com/ruhaifimd/Multiple-Logistic-Regression_DrPH">logistic regression</a></sub></p>
 
+## Live Apps
+
+<b><a href="https://ruhaifimd.github.io/kamus-id/">KamusID</a>: infectious disease case definitions for health workers in Malaysia</b><br>
+<sub>Searchable web app for the 58 diseases in the MOH <i>Case Definitions for Infectious Diseases in Malaysia</i> (4th Ed, 2026). Installs on a phone and works offline. Unofficial reference copy; the published PDF remains authoritative · <a href="https://ruhaifimd.github.io/kamus-id/">Open KamusID</a></sub>
+
 ## Selected Presentations & Recognition
 
 <b>AI-SAFER: Malay-language AI simulator for flood preparedness training</b><br>
-<sub>TOPCOM 2026 · 14th International Conference on Emergency and Disaster Medicine, Langkawi · Nov 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-11-topcom-ai-safer-poster-ruhaifi.pdf">Link</a></sub>&nbsp; <img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20" align="absmiddle">
+<sub>TOPCOM 2026 · 14th International Conference on Emergency and Disaster Medicine, Langkawi · Nov 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-11-topcom-ai-safer-poster-ruhaifi.pdf">Poster (PDF)</a></sub>&nbsp; <img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20" align="absmiddle">
 
 <b>Aplikasi AI dalam Kawalan Penyakit Berjangkit</b><br>
-<sub>Tumpat District Health Office, Kelantan · Oct 2026 · <a href="https://ruhaifimd.github.io/presentation/ai-cdc/">Link</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
+<sub>Tumpat District Health Office, Kelantan · Oct 2026 · <a href="https://ruhaifimd.github.io/presentation/ai-cdc/">Slides</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
 
 <b>Prompt to Application: Smarter Healthcare Apps with Generative AI</b><br>
-<sub>Pasir Puteh District Health Office, Kelantan · Oct 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">Link</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
+<sub>Pasir Puteh District Health Office, Kelantan · Oct 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-10-prompt-to-application-ruhaifi.pdf">Slides (PDF)</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
 
 <b>Empower Remaja di Sebalik Ombak: adolescent sexual &amp; reproductive health programme evaluation</b><br>
 <sub>Kelantan State-Level Panel Penasihat Klinik Kesihatan (Health Clinic Advisory Panel) Convention · Oct 2026</sub>&nbsp; <img src="assets/badges/co-author-2nd-place-award.svg" alt="Co-author · 2nd Place" width="128" height="20" align="absmiddle">
@@ -55,7 +57,7 @@ Occupational Health Doctor and Doctor of Public Health (DrPH) candidate at [Univ
 <sub>27th NIH Scientific Conference 2026, Selangor · Jul 2026</sub>&nbsp; <img src="assets/badges/poster-presenter.svg" alt="Poster Presenter" width="100" height="20" align="absmiddle">
 
 <b>Beyond the Bench: Public Health Laboratories and Generative AI</b><br>
-<sub>Kota Bharu Public Health Laboratory, Kelantan · Jun 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">Link</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
+<sub>Kota Bharu Public Health Laboratory, Kelantan · Jun 2026 · <a href="https://github.com/ruhaifimd/ruhaifimd/blob/main/slides/2026-06-beyond-the-bench-ruhaifi.pdf">Slides (PDF)</a></sub>&nbsp; <img src="assets/badges/invited-speaker.svg" alt="Invited Speaker" width="96" height="20" align="absmiddle">
 
 ## Publications
 
